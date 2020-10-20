@@ -45,7 +45,9 @@ Tasks/Steps
 6.Combine Analysis Combine all data into one notebook upload to repo 
 
 7.Final Analysis- Create final analysis if different from previous.  clean up graphs/charts with titles/ uniform wording/etc. upload to repo
+
 8. Create Presentation  Create power point with data and analysis.  Upload to repo.
 
-
+Sources of Data:
+https://open.fda.gov/apis/device/classification/
 
