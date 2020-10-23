@@ -13,18 +13,52 @@ Look at current trends of Medical Devices used in healthcare and how it has chan
 
 Tasks/Steps
 
-1.Create Proposal
-  what questions are we trying to answer? 
-  Look at what kind of information do we want to answer?  
-  What are the different types of Devices? 
-  What are the most common used in total and within each medical specialty.  
-  Has this trend changed over time? Is there new trends devices in recent years? 
-  Is the device implantable? 
-  Does it emit radiation, if so what kind?
-  Does the device use software? 
-  Which devices have the most recalls/flags? 
-  Is there a timeframe for when devices usually have recalls? 
-  Does the device have an accessory/ what percencentage of devices have accessories/which specialty has the most accessories?
+1.Create Proposal:
+Treatment Device Proposal
+
+What are the different types of Devices? 
+Alternative Hypothesis: If    Then
+Null Hypothesis:  If Then
+What are the most common used in total and within each medical specialty.
+Alternative Hypothesis: If    Then
+Null Hypothesis:  If Then
+
+Has this trend changed over time? 
+Alternative Hypothesis: If    Then
+Null Hypothesis:  If Then
+
+
+Is there new trends devices in recent years? Is the device implantable? 
+Alternative Hypothesis: If    Then
+Null Hypothesis:  If Then
+
+Does it emit radiation, if so what kind?
+Alternative Hypothesis: If    Then
+Null Hypothesis:  If Then
+
+
+ Does the device use software?
+Alternative Hypothesis: If    Then
+Null Hypothesis:  If Then
+
+
+ Which devices have the most recalls/flags?
+ Alternative Hypothesis: If    Then
+Null Hypothesis:  If Then
+
+
+Is there a timeframe for when devices usually have recalls? 
+Alternative Hypothesis: If    Then
+Null Hypothesis:  If Then
+
+
+
+Does the device have an accessory/ what percentage of devices have accessories/which specialty has the most accessories?
+Alternative Hypothesis: If    Then
+Null Hypothesis:  If Then
+
+
+
 
 2.Gather Data
 Gather multiple APIs that have detailed information on Medical Devices. 
