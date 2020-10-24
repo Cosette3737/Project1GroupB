@@ -16,48 +16,45 @@ Tasks/Steps
 1.Create Proposal:
 Treatment Device Proposal
 
-What are the different types of Devices? 
-Alternative Hypothesis: If    Then
-Null Hypothesis:  If Then
+What are the different types of Devices?
+Alternative Hypothesis: If cardiovascular devices are the most needed then they will have the highest sales.
+Null Hypothesis:  If cardiovascular devices are the not most needed then they will not have the highest sales.
+
 What are the most common used in total and within each medical specialty.
-Alternative Hypothesis: If    Then
-Null Hypothesis:  If Then
+Alternative Hypothesis: If Type 1 devices have the most premarket approvals in 2020  then Type 1 will be most common used.
+Null Hypothesis:  If Type 1 devices do not have the most premarket approvals in 2020 then Type 1 will not be most common used.
 
 Has this trend changed over time? 
-Alternative Hypothesis: If    Then
-Null Hypothesis:  If Then
+Alternative Hypothesis: If the Type 1 device trend is the same over time then it will have the same percentage in any year.
+Null Hypothesis:  If the Type 1 device trend is not the same over time then it will not have the same percentage in any year.
 
-
-Is there new trends devices in recent years? Is the device implantable? 
-Alternative Hypothesis: If    Then
-Null Hypothesis:  If Then
+Is the device implantable? 
+Alternative Hypothesis: If the device is implantable then it is classified as type 3.
+Null Hypothesis:  If the device is not implantable then it is not classified as type 3.
 
 Does it emit radiation, if so what kind?
-Alternative Hypothesis: If    Then
-Null Hypothesis:  If Then
+Alternative Hypothesis: If a medical device emits radiation then it is only used for diagnostic purposes.
+Null Hypothesis:   If a medical device does not emit radiation then it is not only used for diagnostic purposes.
+
+Alternative: If a company has the most manufacturing locations, then they will have the most MDR.
+Null: If a company does not have the most manufacturing locations, then they will not have the most MDR.
 
 
- Does the device use software?
-Alternative Hypothesis: If    Then
-Null Hypothesis:  If Then
+Does the device use software?
+Alternative Hypothesis: If the device uses a software then it will have a user interface
+Null Hypothesis If the device does not use a software then it will not have a user interface.
 
 
  Which devices have the most recalls/flags?
- Alternative Hypothesis: If    Then
-Null Hypothesis:  If Then
-
+ Alternative Hypothesis: If medical devices have become more reliable in 2020, then the number of recalls will be less than in 1995? 
+Null Hypothesis:  If medical devices have not become more reliable in 2020, then the number of recalls will be not be less than in 1995?
 
 Is there a timeframe for when devices usually have recalls? 
-Alternative Hypothesis: If    Then
-Null Hypothesis:  If Then
-
-
-
+Alternative Hypothesis: If type 3 device is the safest Then it will have the least amount of recalls.
+Null Hypothesis:  If type 3 device is not the safest Then it will not have the least amount of recalls.
 Does the device have an accessory/ what percentage of devices have accessories/which specialty has the most accessories?
-Alternative Hypothesis: If    Then
-Null Hypothesis:  If Then
-
-
+Alternative Hypothesis: AH: if the device is complex then it will have multiple accessories. 
+Null: If the device is not complex them if will not have multiple accessories.  
 
 
 2.Gather Data
