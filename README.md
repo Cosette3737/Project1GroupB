@@ -1,5 +1,5 @@
-# butler20201017
-homeworkproject
+Project 1
+
 PROJECT PROPOSAL
 
 
@@ -86,4 +86,5 @@ Get data into notebook, merge if multiple sources used and use python to select 
 
 Sources of Data:
 https://open.fda.gov/apis/device/classification/
+https://accessgudid.nlm.nih.gov/resources/developers/device_lookup_api
 FDA MDR REPORT
