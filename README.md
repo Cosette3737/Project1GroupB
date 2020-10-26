@@ -1,6 +1,6 @@
-###Project 1
+###Project 1###
 
-###PROJECT PROPOSAL
+<h6>PROJECT PROPOSAL
 
 ##Project Title:  Medical Devices Data Analysis
 
