@@ -1,19 +1,17 @@
-Project 1
+###Project 1
 
-PROJECT PROPOSAL
+###PROJECT PROPOSAL
 
+##Project Title:  Medical Devices Data Analysis
 
+##Team Members: Becky Joseph, Essi Monneus
 
-Project Title:  Medical Devices Data Analysis
-
-Team Members: Becky Joseph, Essi Monneus
-
-Project Description/Outline:
+#Project Description/Outline:
 Look at current trends of Medical Devices used in healthcare and how it has changed over the years. Create a visual analysis of data gathered to optimize the market of medical devices.   
 
-Tasks/Steps
+#Tasks/Steps
 
-1.Create Proposal:
+**1.Create Proposal:**
 Treatment Device Proposal
 
 What are the different types of Devices?
@@ -57,31 +55,31 @@ Alternative Hypothesis: AH: if the device is complex then it will have multiple 
 Null: If the device is not complex them if will not have multiple accessories.  
 
 
-2.Gather Data
+**2.Gather Data**
 Gather multiple APIs that have detailed information on Medical Devices. 
 pload files/links to repo
 
-3.Check if Data answers questions
+**3.Check if Data answers questions**
 Look at data and see if it answers all questions, is missing information, or shows any other information needed.
 
-4.Clean Data
+**4.Clean Data**
 Get data into notebook, merge if multiple sources used and use python to select data needed.  
  Look at data for missing rows/data/information, merge into one DF and set variables to be used for analysis.
 
-5.Analysis
+**5.Analysis**
  Examine data to see trends and patterns.  
  Create charts/graphs to visualize data trends. upload to repo
 
-6.Combine Analysis 
+**6.Combine Analysis** 
   Combine all data into one notebook
 
-7.Final Analysis 
+**7.Final Analysis** 
   Create final analysis if different from previous.  clean up graphs/charts with titles/ uniform wording/etc. upload to repo
 
-8. Create Presentation  
+**8. Create Presentation**  
   Create power point with data and analysis.  Upload to repo.
 
-Sources of Data:
+**Sources of Data:**
 https://open.fda.gov/apis/device/classification/
 https://accessgudid.nlm.nih.gov/resources/developers/device_lookup_api
 FDA MDR REPORT
