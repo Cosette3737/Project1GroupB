@@ -1,12 +1,12 @@
-### Project 1 ###
+# Project 1 #
 
-### PROJECT PROPOSAL ###
+## PROJECT PROPOSAL ##
 
 ## Project Title:  Medical Devices Data Analysis ##
 
-## Team Members: Becky Joseph, Essi Monneus ##
+### Team Members: Becky Joseph, Essi Monneus ###
 
-# Project Description/Outline:#
+#### Project Description/Outline: #####
 Look at current trends of Medical Devices used in healthcare and how it has changed over the years. Create a visual analysis of data gathered to optimize the market of medical devices.   
 
 #Tasks/Steps
