@@ -14,9 +14,9 @@ Look at current trends of Medical Devices used in healthcare and how it has chan
 **1.Create Proposal:**
 Treatment Device Proposal
 
-What are the different types of Devices?
-Alternative Hypothesis: If cardiovascular devices are the most needed then they will have the highest sales.
-Null Hypothesis:  If cardiovascular devices are the not most needed then they will not have the highest sales.
+*What are the different types of Devices?
+ *Alternative Hypothesis: If cardiovascular devices are the most needed then they will have the highest sales.
+ *Null Hypothesis:  If cardiovascular devices are the not most needed then they will not have the highest sales.
 
 What are the most common used in total and within each medical specialty.
 Alternative Hypothesis: If Type 1 devices have the most premarket approvals in 2020  then Type 1 will be most common used.
