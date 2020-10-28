@@ -7,7 +7,24 @@
 ### Team Members: Becky Joseph, Essi Monneus ###
 
 #### Project Description/Outline: #####
-Look at current trends of Medical Devices used in healthcare and how it has changed over the years. Create a visual analysis of data gathered to optimize the market of medical devices.   
+Look at current trends of Medical Devices used in healthcare and how it has changed over the years. Create a visual analysis of data gathered to optimize the market of medical devices.  
+
+**Final Analysis**
+Using the data from reported from Open FDA, we can look at different areas of the medical device industry. Within this industry, there are many different categories of data.   Using the API from Open FDA, we learn that the Gastroenterology, and Urology, along with Clinical Chemistry, General and Plastic Surgery, and Microbiology have the highest amount of medical devices, in comparison to Genetics, Pathology and Radiology which have the least.    
+Using the information can also investigate which states have the highest number of events in 3 different time periods, 2015, 2019, and 2020.  California, Indiana, and Pennsylvania all appear in 2 of the 3 years examined.   Although this data may not be complete, due to data not state.   This undocumented state’s total is large enough, to possibly change the top states.  Seeing that a few states are on the top a few times, could be due to higher number of events, or simply that those states have stricter guidelines and regulations in reporting adverse events.   The number of events in 2020 is almost the same as 2019, even though the year is not completed.  This could mean 2020 could have a higher number of events this year.  Between 2015, and 2020, California has had the same number of events, showing that the quality of devices has remained the same over the last 5 years.   
+While looking at medical devices, it may be important to know where they were manufactured, to understand the regulations, codes, and adverse events reported for each device and its removal from market.  China, Canada, Denmark, and Taiwan are all top manufactures along with the United states in the medical device industry. 
+Adverse effects are also reported and can be divided among category.  Malfunction is the highest amount of adverse effects, while death is the last.  Devices can also be grouped by class, and we can see that Class 2 has the highest number of devices, whereas Class 1 has the second, and Class 3 has the least. Within each class, we can determine which manufacturers had the most devices per class.  Looking at open recalls, we can also tell some important information about medical specialties and devices.  Even though radiology has the least number of devices in the market, it has the highest amount of open recalls, along with plastic and general surgery.  Surgical, Ceiling, and light mounts account for the most amounts of open recalls along with the interventional fluoroscopic Xray system, and tomography.  It is important to see that class 3 does not have any open recalls as those are life threatening and dealt with quickly.  
+
+
+
+
+
+
+
+
+
+
+
 
 #Tasks/Steps
 
@@ -26,24 +43,9 @@ Treatment Device Proposal
   * Alternative Hypothesis: If the Type 1 device trend is the same over time then it will have the same percentage in any year.
   * Null Hypothesis:  If the Type 1 device trend is not the same over time then it will not have the same percentage in any year.
 
-* Is the device implantable? 
-  * Alternative Hypothesis: If the device is implantable then it is classified as type 3.
-  * Null Hypothesis:  If the device is not implantable then it is not classified as type 3.
-
-* Does it emit radiation, if so what kind?
-  * Alternative Hypothesis: If a medical device emits radiation then it is only used for diagnostic purposes.
-  * Null Hypothesis:   If a medical device does not emit radiation then it is not only used for diagnostic purposes.
-
-  * Alternative: If a company has the most manufacturing locations, then they will have the most MDR.
-  * Null: If a company does not have the most manufacturing locations, then they will not have the most MDR.
-
 * Which devices have the most recalls/flags?
   * Alternative Hypothesis: If medical devices have become more reliable in 2020, then the number of recalls will be less than in 1995? 
   * Null Hypothesis:  If medical devices have not become more reliable in 2020, then the number of recalls will be not be less than in 1995?
-
-* Is there a timeframe for when devices usually have recalls? 
-  * Alternative Hypothesis: If type 3 device is the safest Then it will have the least amount of recalls.
-  * Null Hypothesis:  If type 3 device is not the safest Then it will not have the least amount of recalls.
 
 
 **2.Gather Data**
@@ -74,3 +76,5 @@ Treatment Device Proposal
 * https://open.fda.gov/apis/device/classification/
 * https://accessgudid.nlm.nih.gov/resources/developers/device_lookup_api
 * FDA MDR REPORT
+
+
