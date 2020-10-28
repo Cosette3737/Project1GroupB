@@ -74,7 +74,6 @@ Treatment Device Proposal
 
 **Sources of Data:**
 * https://open.fda.gov/apis/device/classification/
-* https://accessgudid.nlm.nih.gov/resources/developers/device_lookup_api
-* FDA MDR REPORT
+
 
 
